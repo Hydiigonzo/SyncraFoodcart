@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class controller {
+public class Controller {
     static ArrayList<User> userList = new ArrayList<>();
     static ArrayList<Restaurant> restaurantList = new ArrayList<>();
     static ArrayList<Order> orderList = new ArrayList<>();
